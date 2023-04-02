@@ -1,2 +1,3 @@
-# ad-exceptions
-adblock exceptions
+# AdAway Exceptions
+1) For AliExpress
+todo
